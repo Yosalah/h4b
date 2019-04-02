@@ -1,0 +1,6 @@
+owner=512405599116591105
+prefix=1
+game=H4B 1play
+stayinchannel=true
+songinstatus=false
+token=NTYyNzgxMDg4OTIyMDc1MTU5.XKPw2A.beG4ptcohCvauhsrAEH15_75yVg
